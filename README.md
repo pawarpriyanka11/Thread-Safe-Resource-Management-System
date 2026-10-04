@@ -402,5 +402,3 @@ Race Condition Check    : PASSED (THREAD SAFE)
 
 ---
 *Developed as a model Low-Level Design (LLD) project for Software Development Engineer (SDE) interviews.*
-#   T h r e a d - S a f e - R e s o u r c e - M a n a g e m e n t - S y s t e m  
- 
